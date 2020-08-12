@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "765315830645",
+    "firebase_url": "https://the-london-vip-foods.firebaseio.com",
+    "project_id": "the-london-vip-foods",
+    "storage_bucket": "the-london-vip-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765315830645:android:4ba08c940e5f5c2cd6f93c",
+        "android_client_info": {
+          "package_name": "vip.thelondon.foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765315830645-n28di3g2tce8hpe1vl166u7e3g3ej7v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH0kVNU53Uyha6c5IywZW38kcbDu-oJHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765315830645-n28di3g2tce8hpe1vl166u7e3g3ej7v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765315830645:android:d7f2e997c3c18bafd6f93c",
+        "android_client_info": {
+          "package_name": "vip.thelondon.foods.novilhodeouro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765315830645-n28di3g2tce8hpe1vl166u7e3g3ej7v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH0kVNU53Uyha6c5IywZW38kcbDu-oJHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765315830645-n28di3g2tce8hpe1vl166u7e3g3ej7v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
